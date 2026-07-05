@@ -43,6 +43,12 @@ I write beginner-friendly blogs on computer hardware, memory, AI, and embedded t
 - GitHub: paste your GitHub profile link here
 - Medium: paste your Medium profile link here
 - DEV.to: paste your DEV.to profile link here
+- ## ✍️ My Blogs & Social Links
+
+- [DEV.to](https://dev.to/manudi_9867)
+- [Medium](https://medium.com/@manudi4ye)
+- [Instagram](https://www.instagram.com/chauhan_20048)
+- [X / Twitter](https://x.com/manshuchauhan4)
 
 ---
 
